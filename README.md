@@ -70,7 +70,17 @@ And Finally I got the accuracy and recall and precision as shown below :
 
 ![image](https://github.com/samthakur587/neural_network-from-numpy/blob/main/image/Screenshot%20from%202022-08-16%2017-36-33.png)
 
+So my Final prediction on the test images are shown below : 
 
+![image](https://github.com/samthakur587/neural_network-from-numpy/blob/main/image/cats.png)
+
+So as you can see i have got good accuracy and precision, recll value by this nueral network which is implemented by numpy . notice that this neural network i have implemented as binary classification if you want to do multiclass classification you can do the one hot encoding your y_test and the add a softmax layer to it or else you can use sigmoid function with more then one output neuron.
+
+THANK YOU !
+
+# [LICENSE](LICENSE)
+
+# [LinkedIn](https://www.linkedin.com/in/samunder-singh-265508202/)
 
 
 
